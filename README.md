@@ -2,7 +2,6 @@
 
 <h1 align="center">My name is Ernest Talagtag 👽</h1>
 <h3 align="center">I love to solve logical problems like chess puzzles, leetcode problems, and a little bit of math.</h3>
-(img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1gR450uSGV0cICgirT/giphy.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erneeest&label=Profile%20views&color=0e75b6&style=flat" alt="erneeest" /> </p>
 
