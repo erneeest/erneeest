@@ -29,6 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erneeest&show_icons=true&locale=en&layout=compact" alt="erneeest" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erneeest&show_icons=true&locale=en" alt="erneeest" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erneeest&" alt="erneeest" /></p>
