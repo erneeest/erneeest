@@ -35,7 +35,7 @@ Game development, tech, and creative coding.
 - 📊 Help with **open-source projects**.
 - 📓 Get better at **full stack development**.
 
-## 📧 Let's Connect!
+   ## 📧 Let's Connect!
 
 - 📨 **Email**: ernestneil09@gmail.com
 - 💼 **LinkedIn**: www.linkedin.com/in/ernest-talagtag-039ba22a2
