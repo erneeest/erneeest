@@ -45,4 +45,4 @@ Game development, tech, and creative coding.
   
 ---
 
-Thanks for visiting! Check out my projects and let's create something awesome! 🚀
+Thanks for visiting! Check out my projects soon and let's create something awesome! 🚀
