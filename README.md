@@ -6,7 +6,7 @@ A Computer Science student who loves coding and creating cool projects.
 ## 🧑‍💻 About Me
 
 - 🎮 I love making **Games**, thinking of making a website game soon.
-- 🌐 **Web Developer in Training**: Learning **Front End Development*.
+- 🌐 **Web Developer in Training**: Learning **Front End Development**.
 - 💻 **Programming Fan**: I know **Java** and I'm learning **C#**.
 - 🎨 I enjoy making **websites and creative games**.
 
