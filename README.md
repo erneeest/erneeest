@@ -1,6 +1,7 @@
 # Ernest | Front End Developer
 
-  A Computer Science student who loves coding and creating cool projects.
+    A Computer Science student who loves coding and creating cool projects.
+  
 ---
 
 Here's a bit about me:
@@ -41,6 +42,7 @@ Game development, tech, and creative coding.
 - 🌟 **Portfolio**: Coming soon!
 
   ## Still expanding my toolkit
+  
 ---
 
 Thanks for visiting! Check out my projects and let's create something awesome! 🚀
