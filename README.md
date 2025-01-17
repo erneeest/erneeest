@@ -1,5 +1,6 @@
 # Ernest | Front End Developer
 A Computer Science student who loves coding and creating cool projects. 
+---
 
 # Here's a bit about me:
 
