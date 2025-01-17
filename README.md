@@ -23,7 +23,7 @@ Game development, tech, and creative coding.
 
 ## 🔁 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/apierneeest=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/apierneeestYourGitHubUsername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎯 Goals for 2025
 
