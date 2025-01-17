@@ -41,7 +41,7 @@ Game development, tech, and creative coding.
 - 💼 **LinkedIn**: www.linkedin.com/in/ernest-talagtag-039ba22a2
 - 🌟 **Portfolio**: Coming soon!
 
-  ## Still expanding my toolkit
+## Still expanding my toolkit
   
 ---
 
