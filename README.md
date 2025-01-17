@@ -1,5 +1,5 @@
 # Ernest | Front End Developer
-A Computer Science student who loves coding and creating cool projects.
+  A Computer Science student who loves coding and creating cool projects.
 ---
 
 # Here's a bit about me:
@@ -39,7 +39,7 @@ Game development, tech, and creative coding.
 - 💼 **LinkedIn**: www.linkedin.com/in/ernest-talagtag-039ba22a2
 - 🌟 **Portfolio**: Coming soon!
 
-## Still expanding my toolkit
+  ## Still expanding my toolkit
 
 ---
 
