@@ -1,10 +1,7 @@
 # Ernest | Front End Developer
-
   A Computer Science student who loves coding and creating cool projects.
   
 ---
-
-Here's a bit about me:
 
 ## 🧑‍💻 About Me
 
@@ -20,9 +17,6 @@ Here's a bit about me:
   - 💾 Unity (for making games)
   - 🎨 Blender (for basic 3D models)
 - **Hardware**: Asus TUF A15 | Ryzen 7 4800H | RTX 3050
-
-### Interests:
-Game development, tech, and creative coding.
 
 ## 🔁 GitHub Stats
 
@@ -40,9 +34,6 @@ Game development, tech, and creative coding.
 - 📨 **Email**: ernestneil09@gmail.com
 - 💼 **LinkedIn**: www.linkedin.com/in/ernest-talagtag-039ba22a2
 - 🌟 **Portfolio**: Coming soon!
-
-      :) Still expanding my toolkit
-  
 ---
 
 Thanks for visiting! Check out my projects soon and let's create something awesome! 🚀
