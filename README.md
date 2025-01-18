@@ -8,7 +8,7 @@ Here's a bit about me:
 
 ## 🧑‍💻 About Me
 
-- 🎮 I love making **Games**, thinking of making a website game soon.
+- 🎮 I love making **Games**, planning of making a website game soon.
 - 🌐 **Web Developer in Training**: Learning **Front End Development**.
 - 💻 **Programming Fan**: I know **Java** and I'm learning **C#**.
 - 🎨 I enjoy making **websites and creative games**.
