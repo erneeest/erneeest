@@ -11,7 +11,7 @@
 
 ## 🚀 Knowledgeable in
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,tailwind,js,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,java)](https://skillicons.dev)
 
 - **Tools**:
   
