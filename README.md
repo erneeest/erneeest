@@ -8,14 +8,14 @@
 - 🎮 I love making **Games**, planning of making a website game soon.
 - 🌐 **Web Developer in Training**: Learning **Front End Development**.
 - 💻 **Programming Fan**: I know **Java** and I'm learning **C#**.
-- 🎨 I enjoy making **websites and creative games**.
 
-## 🚀 Tech Stack
+## 🚀 Knowledgeable in
 
-- **Languages**: Java, C#, HTML, CSS, JS
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,java)](https://skillicons.dev)
+
 - **Tools**:
-  - 💾 Unity (for making games)
-  - 🎨 Blender (for basic 3D models)
+  
+  [![My Skills](https://skillicons.dev/icons?i=blender,unity,vscode,)](https://skillicons.dev)
 - **Hardware**: Asus TUF A15 | Ryzen 7 4800H | RTX 3050
 
 ## 🔁 GitHub Stats
