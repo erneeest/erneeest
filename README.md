@@ -34,6 +34,3 @@
 - 📨 **Email**: ernestneil09@gmail.com
 - 💼 **LinkedIn**: www.linkedin.com/in/ernest-talagtag-039ba22a2
 - 🌟 **Portfolio**: Coming soon!
----
-
-Thanks for visiting! Check out my projects soon and let's create something awesome! 🚀
