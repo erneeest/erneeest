@@ -6,7 +6,7 @@ I'm an aspiring Full-Stack Developer with hands-on experience building projects 
 
 I take pride in solving real-world problems with code and I’m currently sharpening my skills in **full-stack web development** while preparing to pursue **game development** in the future.  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,java,cs,nodejs,express,mongodb,postgres,git,github&size=20)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,js,ts,react,java,cs,nodejs,express,mongodb,postgres,git,github&size=20)](https://skillicons.dev)  
 
 **Tools I Use:**  
 [![My Tools](https://skillicons.dev/icons?i=vscode,unity,blender,unreal,photoshop,pr&size=20)](https://skillicons.dev)  
