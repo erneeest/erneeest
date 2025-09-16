@@ -2,8 +2,7 @@
 
 # Ernest Talagtag  
 
-I'm an aspiring Full-Stack Developer with hands-on experience building projects using **HTML, CSS, JavaScript, Node.js, Express, and MongoDB**.  
-I enjoy working on both the **frontend and backend**, creating functional and user-friendly applications.  
+I'm an aspiring Full-Stack Developer with hands-on experience building projects using **HTML, CSS, JavaScript, Node.js, Express, and MongoDB**. I enjoy working on both the **frontend and backend**, creating functional and user-friendly applications.  
 
 I take pride in solving real-world problems with code and I’m currently sharpening my skills in **full-stack web development** while preparing to pursue **game development** in the future.  
 
