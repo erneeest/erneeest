@@ -11,10 +11,10 @@ I take pride in solving real-world problems with code and I’m currently sharpe
 ---
 
 ## ⚡ Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,java,cs,nodejs,express,mongodb,postgres,git,github)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,java,cs,nodejs,express,mongodb,postgres,git,github&size=20)](https://skillicons.dev)  
 
 **Tools I Use:**  
-[![My Tools](https://skillicons.dev/icons?i=vscode,unity,blender,unreal,photoshop,pr,ae)](https://skillicons.dev)  
+[![My Tools](https://skillicons.dev/icons?i=vscode,unity,blender,unreal,photoshop,pr,ae&size=20)](https://skillicons.dev)  
 
 **Hardware:**  
 💻 Asus TUF A15 | Ryzen 7 4800H | RTX 3050  
